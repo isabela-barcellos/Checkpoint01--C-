@@ -1,0 +1,14 @@
+C:\Users\labsfiap\source\repos\Variant3_Media\Variant3_Media\bin\Debug\net8.0\Variant3_Media.exe
+C:\Users\labsfiap\source\repos\Variant3_Media\Variant3_Media\bin\Debug\net8.0\Variant3_Media.deps.json
+C:\Users\labsfiap\source\repos\Variant3_Media\Variant3_Media\bin\Debug\net8.0\Variant3_Media.runtimeconfig.json
+C:\Users\labsfiap\source\repos\Variant3_Media\Variant3_Media\bin\Debug\net8.0\Variant3_Media.dll
+C:\Users\labsfiap\source\repos\Variant3_Media\Variant3_Media\bin\Debug\net8.0\Variant3_Media.pdb
+C:\Users\labsfiap\source\repos\Variant3_Media\Variant3_Media\obj\Debug\net8.0\Variant3_Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\source\repos\Variant3_Media\Variant3_Media\obj\Debug\net8.0\Variant3_Media.AssemblyInfoInputs.cache
+C:\Users\labsfiap\source\repos\Variant3_Media\Variant3_Media\obj\Debug\net8.0\Variant3_Media.AssemblyInfo.cs
+C:\Users\labsfiap\source\repos\Variant3_Media\Variant3_Media\obj\Debug\net8.0\Variant3_Media.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\source\repos\Variant3_Media\Variant3_Media\obj\Debug\net8.0\Variant3_Media.dll
+C:\Users\labsfiap\source\repos\Variant3_Media\Variant3_Media\obj\Debug\net8.0\refint\Variant3_Media.dll
+C:\Users\labsfiap\source\repos\Variant3_Media\Variant3_Media\obj\Debug\net8.0\Variant3_Media.pdb
+C:\Users\labsfiap\source\repos\Variant3_Media\Variant3_Media\obj\Debug\net8.0\Variant3_Media.genruntimeconfig.cache
+C:\Users\labsfiap\source\repos\Variant3_Media\Variant3_Media\obj\Debug\net8.0\ref\Variant3_Media.dll
